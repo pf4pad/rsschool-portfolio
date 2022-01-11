@@ -205,7 +205,7 @@ section:not(:first-child){
 line-height: 36px;
 }
 
-section:not(:first-child) .container {
+section:not(:first-child) {
   padding-top: var(--pt);
 }
 .tabs{
